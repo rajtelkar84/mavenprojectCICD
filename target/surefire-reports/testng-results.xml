@@ -2,34 +2,34 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="example suite 1" duration-ms="95559" started-at="2019-09-16T17:19:43Z" finished-at="2019-09-16T17:21:18Z">
+  <suite name="example suite 1" duration-ms="78166" started-at="2019-09-21T17:49:28Z" finished-at="2019-09-21T17:50:46Z">
     <groups>
     </groups>
-    <test name="Regression suite 1" duration-ms="95559" started-at="2019-09-16T17:19:43Z" finished-at="2019-09-16T17:21:18Z">
+    <test name="Regression suite 1" duration-ms="78166" started-at="2019-09-21T17:49:28Z" finished-at="2019-09-21T17:50:46Z">
       <class name="testpkg1.Test1">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testpkg1.Test1@129a8472]" name="beforeMethod" is-config="true" duration-ms="4504" started-at="2019-09-16T17:20:26Z" finished-at="2019-09-16T17:20:31Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testpkg1.Test1@129a8472]" name="beforeMethod" is-config="true" duration-ms="5721" started-at="2019-09-21T17:50:27Z" finished-at="2019-09-21T17:50:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="f()[pri:0, instance:testpkg1.Test1@129a8472]" name="f" duration-ms="45779" started-at="2019-09-16T17:20:31Z" finished-at="2019-09-16T17:21:17Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:testpkg1.Test1@129a8472]" name="f" duration-ms="12720" started-at="2019-09-21T17:50:33Z" finished-at="2019-09-21T17:50:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testpkg1.Test1@129a8472]" name="afterMethod" is-config="true" duration-ms="1841" started-at="2019-09-16T17:21:17Z" finished-at="2019-09-16T17:21:18Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testpkg1.Test1@129a8472]" name="afterMethod" is-config="true" duration-ms="677" started-at="2019-09-21T17:50:45Z" finished-at="2019-09-21T17:50:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
       </class> <!-- testpkg1.Test1 -->
       <class name="testpkg1.test2">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testpkg1.test2@d041cf]" name="beforeMethod" is-config="true" duration-ms="22869" started-at="2019-09-16T17:19:43Z" finished-at="2019-09-16T17:20:06Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testpkg1.test2@d041cf]" name="beforeMethod" is-config="true" duration-ms="38936" started-at="2019-09-21T17:49:28Z" finished-at="2019-09-21T17:50:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="f()[pri:0, instance:testpkg1.test2@d041cf]" name="f" duration-ms="18688" started-at="2019-09-16T17:20:06Z" finished-at="2019-09-16T17:20:24Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:testpkg1.test2@d041cf]" name="f" duration-ms="12470" started-at="2019-09-21T17:50:07Z" finished-at="2019-09-21T17:50:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testpkg1.test2@d041cf]" name="afterMethod" is-config="true" duration-ms="1821" started-at="2019-09-16T17:20:24Z" finished-at="2019-09-16T17:20:26Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testpkg1.test2@d041cf]" name="afterMethod" is-config="true" duration-ms="7574" started-at="2019-09-21T17:50:19Z" finished-at="2019-09-21T17:50:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->

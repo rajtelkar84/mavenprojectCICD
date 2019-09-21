@@ -4,6 +4,7 @@
     <classes>
     <class name="testpkg1.test2"/>
       <class name="testpkg1.Test1"/>
+      <class name="testpkg1.Test3"/>
       
     </classes>
  </test>
